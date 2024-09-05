@@ -8,5 +8,5 @@ public class OpcjaDialogowa
     [SerializeField] private int zmianaCharyzmy;
 
     public string Tekst => tekst;
-    public int ZmianaCharazymy => zmianaCharyzmy;
+    public int ZmianaCharyzmy => zmianaCharyzmy;
 }

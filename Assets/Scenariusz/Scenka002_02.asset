@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Scenka002_02
   m_EditorClassIdentifier: 
   opcje:
-  - tekst: Opcja A
+  - tekst: "\"To d\u0142uga historia, ale ciesz\u0119 si\u0119, \u017Ce mog\u0119
+      tu by\u0107.\""
     zmianaCharyzmy: 1
-  - tekst: Opcja B
-    zmianaCharyzmy: -1
-  - tekst: Opcja C
+  - tekst: "\"Szczerze m\xF3wi\u0105c, sam nie wiem, jak si\u0119 tu znalaz\u0142em!\""
     zmianaCharyzmy: 0

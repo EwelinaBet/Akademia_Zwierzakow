@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: Scenka002
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: e4e66fb08607d2649b2e70c8afcf6e6d, type: 3}
-  liniaDialogowa: {fileID: 11400000, guid: 86904c2a22a114b43a263f74cfa388bc, type: 2}
+  dialogi:
+  - {fileID: 11400000, guid: af3b9952d42e84745bf24a391cc27504, type: 2}
+  - {fileID: 11400000, guid: 86904c2a22a114b43a263f74cfa388bc, type: 2}
+  - {fileID: 11400000, guid: b62c561d2fff91841bacb1bd9c4e4ac1, type: 2}
