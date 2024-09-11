@@ -66,8 +66,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Gracz: Rzucanie pi\u0142k\u0105 - to brzmi jak \u015Bwietna zabawa! Z
-    przyjemno\u015Bci\u0105- zgadzam si\u0119. "
+  m_text: Tutaj idzie tekst Lorem Ipsum Costam Costam
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -76,8 +75,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4279711353
+  m_fontColor: {r: 0.47450984, g: 0.21176472, b: 0.09019608, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -165,6 +164,7 @@ GameObject:
   - component: {fileID: 8299483961910685186}
   - component: {fileID: 4918082982381856427}
   - component: {fileID: 4910555552248866205}
+  - component: {fileID: -7637570417498457226}
   m_Layer: 5
   m_Name: Opcja Dialogowa
   m_TagString: Untagged
@@ -226,14 +226,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.78431374}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 21300000, guid: 9722478e289612b489f4905f9785a2ce, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 0.3
+  m_PixelsPerUnitMultiplier: 2
 --- !u!114 &8299483961910685186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -304,11 +304,11 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 0, b: 0.41960785, a: 0.78431374}
-    m_HighlightedColor: {r: 0.5235849, g: 0.5235849, b: 1, a: 0.78431374}
-    m_PressedColor: {r: 0.0008454987, g: 0.0008454987, b: 0.1792453, a: 0.99215686}
-    m_SelectedColor: {r: 0, g: 0, b: 0.41960785, a: 0.78431374}
-    m_DisabledColor: {r: 0, g: 0, b: 0.41960785, a: 0.19607843}
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.87843144, g: 1, b: 0.82745105, a: 1}
+    m_PressedColor: {r: 1, g: 0.8849673, b: 0.827451, a: 1}
+    m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
+    m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -327,3 +327,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &-7637570417498457226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7359874408158588027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d4d9da3fb272b4bb74308379e84ee7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dzwiek: {fileID: 0}

@@ -5,8 +5,10 @@ using System;
 public class OpcjaDialogowa
 {
     [SerializeField, TextArea] private string tekst;
+    [SerializeField] private int wymaganaCharyzma;
     [SerializeField] private int zmianaCharyzmy;
 
     public string Tekst => tekst;
+    public int WymaganaCharyzma => wymaganaCharyzma;
     public int ZmianaCharyzmy => zmianaCharyzmy;
 }

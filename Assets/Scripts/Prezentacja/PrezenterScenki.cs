@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using TMPro;
 using System;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class PrezenterScenki : MonoBehaviour
 {
@@ -13,6 +14,7 @@ public class PrezenterScenki : MonoBehaviour
 
     [SerializeField] private List<PrezenterOpcjiDialogowej> prezenteryOpcji;
     [SerializeField] private GameObject przyciskDalej;
+    [SerializeField] private GameObject przyciskPrzeskok;
 
     private int nrScenki;
     private Scenka obecnaScenka;
@@ -21,6 +23,8 @@ public class PrezenterScenki : MonoBehaviour
     private BazowyDialog obecnyDialog;
     
     private int charyzma;
+
+    private bool koniec;
 
     void Start()
     {
@@ -60,18 +64,46 @@ public class PrezenterScenki : MonoBehaviour
 
         if(obecnyDialog is LiniaDialogowa linia )
         {
-            postac.sprite = linia.Postac;
-            postac.gameObject.SetActive(postac.sprite != null);
-            tekst.text = linia.Dialog;
-            przyciskDalej.SetActive(true);
+            PokazLinieDialogowa(linia);
         }
         else if(obecnyDialog is OpcjeDialogowe opcje )
         {
-            int iloscOpcji = Math.Min(prezenteryOpcji.Count, opcje.Opcje.Count);
+            PokazOpcjeDialogowe(opcje);
+        }
+    }
 
-            for( int i = 0; i < iloscOpcji; i++ )
+    public void PrzyciskPrzeskok()
+    {
+        do
+        {
+            NastêpnyDialog();
+            if (koniec==true)
+                return;
+        }
+        while(obecnyDialog is LiniaDialogowa);
+    }
+
+    private void PokazLinieDialogowa(LiniaDialogowa linia)
+    {
+        postac.sprite = linia.Postac;
+        postac.gameObject.SetActive(postac.sprite != null);
+
+        tekst.text = linia.Dialog;
+        przyciskDalej.SetActive(true);
+        przyciskPrzeskok.SetActive(true);
+    }
+
+    private void PokazOpcjeDialogowe(OpcjeDialogowe opcje)
+    {
+        int iloscOpcji = Math.Min(prezenteryOpcji.Count, opcje.Opcje.Count);
+
+        for (int i = 0; i < iloscOpcji; i++)
+        {
+            var opcja = opcje.Opcje[i];
+
+            if (charyzma >= opcja.WymaganaCharyzma )
             {
-                prezenteryOpcji[i].UstawOpcje(opcje.Opcje[i]);
+                prezenteryOpcji[i].UstawOpcje(opcja);
                 prezenteryOpcji[i].gameObject.SetActive(true);
             }
         }
@@ -80,19 +112,30 @@ public class PrezenterScenki : MonoBehaviour
     private void Wyczysc()
     {
         przyciskDalej.SetActive(false);
+        przyciskPrzeskok.SetActive(false);
         foreach (var p in prezenteryOpcji)
             p.gameObject.SetActive(false);
     }
 
     private void KoniecGry()
     {
+        koniec = true;
         Wyczysc();
         tekst.text = "Koniec Gry! :)";
+        przyciskDalej.SetActive(true);
+
     }
 
     public void PrzyciskDalej()
     {
+        if (koniec == true)
+        {
+            SceneManager.LoadScene("Menu");
+            return;
+        }
+        
         NastêpnyDialog();
+        PrzyciskPrzeskok();
     }
 
     public void PrzyciskOpcji(int nr)
