@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka007_016
+  m_EditorClassIdentifier: 
+  postac: {fileID: 0}
+  dialog: "Czy wyni\xF3s\u0142 kalkulator, a dopiero potem przyszed\u0142 sklei\u0107
+    gablot\u0119? A mo\u017Ce by\u0142o ich dw\xF3ch?\r\nChyba \u017Cadnych wi\u0119cej
+    dowod\xF3w tu nie znajd\u0119. Czas porozmawia\u0107 z Pani\u0105 Sow\u0105.\r\n"

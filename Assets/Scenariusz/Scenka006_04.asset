@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka006_04
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Nie przejmuj si\u0119 tym, postaram si\u0119 znale\u017A\u0107 kalkulator,
+      a Ty skoncentruj si\u0119 na egzaminach kt\xF3rymi si\u0119 stresujesz. Wszystko
+      b\u0119dzie dobrze!\r\n"
+    wymaganaCharyzma: 1
+    zmianaCharyzmy: 0
+  - tekst: "Spokojnie, postaram si\u0119 tym zaj\u0105\u0107. Masz jaki\u015B pomys\u0142,
+      gdzie m\xF3g\u0142bym zacz\u0105\u0107 szuka\u0107?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+  - tekst: "Lami, czy ufasz wszystkim tu na uczelni? Mo\u017Ce kto\u015B pr\xF3bowa\u0142
+      Ci co\u015B powiedzie\u0107 na temat kalkulatora?"
+    wymaganaCharyzma: 3
+    zmianaCharyzmy: -1

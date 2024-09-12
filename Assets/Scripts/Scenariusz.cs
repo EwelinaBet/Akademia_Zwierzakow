@@ -4,7 +4,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Scenariusz", menuName = "VisualNovel/Scenariusz")]
 public class Scenariusz : ScriptableObject
 {
-    [SerializeField] private List<Scenka> sceny;
+    [SerializeField] private BazowyDialog pierwszyDialog;
 
-    public List<Scenka> Sceny => sceny;
+    public BazowyDialog PierwszyDialog => pierwszyDialog;
 }

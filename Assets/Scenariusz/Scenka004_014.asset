@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka004_014
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  kwestiaGracza: 0
+  dialog: "\r(obw\u0105chuj\u0105c) Ah, nowy zapach! To zawsze ekscytuj\u0105ce,
+    pe\u0142ne wra\u017Ce\u0144. O rany, ile na Tobie przer\xF3\u017Cnych zapach\xF3w,
+    ciekawe, ciekawe.\r"
+  nastepnyDialog: {fileID: 0}

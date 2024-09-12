@@ -12,6 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2278d6cd05e29fa4aaf6af03a70c2862, type: 3}
   m_Name: Scenariusz
   m_EditorClassIdentifier: 
-  sceny:
-  - {fileID: 11400000, guid: 9bf6fd414cb094d4284ccbb1e6a88f44, type: 2}
-  - {fileID: 11400000, guid: 0f04e56ea226db847b5b47d88d9971de, type: 2}
+  pierwszyDialog: {fileID: 11400000, guid: 4f85c22f8a337cd4abd4b1cbff0ad40d, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka004_02
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "Hej, widz\u0119, \u017Ce masz tu dobre miejsce na obserwacj\u0119\u2026
+    wszystkiego."
+  nastepnyDialog: {fileID: 11400000, guid: 0090fa5ac0a6b664388dfbbb58e38937, type: 2}

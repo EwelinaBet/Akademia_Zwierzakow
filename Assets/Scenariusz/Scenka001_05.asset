@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka001_05
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: a4af1ea43fcfdf8428646dff1dfe455c, type: 3}
   postac: {fileID: 0}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
   dialog: "Chyba za mocno uderzy\u0142em si\u0119 w g\u0142ow\u0119, albo\u2026."
+  nastepnyDialog: {fileID: 11400000, guid: c4529e29b0b92b64cb30333fcd5727af, type: 2}

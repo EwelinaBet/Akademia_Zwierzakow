@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka004_030
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  kwestiaGracza: 0
+  dialog: "\u015Awietnie! Bardzo dzi\u0119kuje za pomoc. Znasz ju\u017C najlepsze
+    miejsca na przek\u0105ski? Bo ja tak! Wiem, co pomo\u017Ce nam wyluzowa\u0107!
+    \r\nChod\u017A, poka\u017C\u0119 Ci, gdzie robi\u0105 najlepsze smoothie z trawy!"
+  nastepnyDialog: {fileID: 0}

@@ -13,10 +13,12 @@ MonoBehaviour:
   m_Name: Scenka002_02
   m_EditorClassIdentifier: 
   opcje:
-  - tekst: "\"To d\u0142uga historia, ale ciesz\u0119 si\u0119, \u017Ce mog\u0119
-      tu by\u0107.\""
-    wymaganaCharyzma: 0
-    zmianaCharyzmy: 1
-  - tekst: "\"Szczerze m\xF3wi\u0105c, sam nie wiem, jak si\u0119 tu znalaz\u0142em!\""
+  - tekst: "To d\u0142uga historia, ale ciesz\u0119 si\u0119, \u017Ce mog\u0119 tu
+      by\u0107."
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: b62c561d2fff91841bacb1bd9c4e4ac1, type: 2}
+  - tekst: "Szczerze m\xF3wi\u0105c, sam nie wiem, jak si\u0119 tu znalaz\u0142em!"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 52aec26522b629d4fafe32c31f6331c8, type: 2}

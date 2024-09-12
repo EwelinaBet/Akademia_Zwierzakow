@@ -11,84 +11,90 @@ public class PrezenterScenki : MonoBehaviour
     [SerializeField] private Image lokacja;
     [SerializeField] private Image postac;
     [SerializeField] private TextMeshProUGUI tekst;
+    [SerializeField] private AudioSource odtwarzaczDzwiekow;
 
+    [Space]
     [SerializeField] private List<PrezenterOpcjiDialogowej> prezenteryOpcji;
     [SerializeField] private GameObject przyciskDalej;
     [SerializeField] private GameObject przyciskPrzeskok;
+    [SerializeField] private GameObject dymekPostaci;
+    [SerializeField] private GameObject dymekGracza;
 
-    private int nrScenki;
-    private Scenka obecnaScenka;
-    
-    private int nrDialogu;
-    private BazowyDialog obecnyDialog;
+    [Space]
+    public BazowyDialog obecnyDialog;
     
     private int charyzma;
 
     private bool koniec;
 
-    void Start()
+    private void Start()
     {
-        nrScenki = -1;
-        NastêpnaScena();
+        PokazDialog( scenariusz.PierwszyDialog );
     }
 
-    private void NastêpnaScena()
+    private void Update()
     {
-        nrScenki++;
-      
-        if (nrScenki >= scenariusz.Sceny.Count)
+        // Pokaz ponownie, zeby testowac edycjê
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            PokazDialog(obecnyDialog);
+        }
+    }
+
+    private void NastepnyDialog()
+    {
+        if (obecnyDialog is LiniaDialogowa linia)
+        {
+            PokazDialog(linia.NastepnyDialog);
+        }
+    }
+
+    private void PokazDialog(BazowyDialog dialog)
+    {
+        if( dialog == null )
         {
             KoniecGry();
             return;
         }
 
-        obecnaScenka = scenariusz.Sceny[nrScenki];
-        lokacja.sprite = obecnaScenka.Lokacja;
-
-        nrDialogu = -1;
-        NastêpnyDialog();
-    }
-
-    private void NastêpnyDialog()
-    {
-        nrDialogu++;
-
-        if (nrDialogu >= obecnaScenka.Dialogi.Count)
-        {
-            NastêpnaScena();
-            return;
-        }
-
-        obecnyDialog = obecnaScenka.Dialogi[nrDialogu];
+        obecnyDialog = dialog;
         Wyczysc();
 
-        if(obecnyDialog is LiniaDialogowa linia )
+        if (obecnyDialog is LiniaDialogowa linia)
         {
             PokazLinieDialogowa(linia);
         }
-        else if(obecnyDialog is OpcjeDialogowe opcje )
+        else if (obecnyDialog is OpcjeDialogowe opcje)
         {
             PokazOpcjeDialogowe(opcje);
         }
     }
 
-    public void PrzyciskPrzeskok()
-    {
-        do
-        {
-            NastêpnyDialog();
-            if (koniec==true)
-                return;
-        }
-        while(obecnyDialog is LiniaDialogowa);
-    }
-
     private void PokazLinieDialogowa(LiniaDialogowa linia)
     {
+        lokacja.sprite = linia.Lokacja;
         postac.sprite = linia.Postac;
         postac.gameObject.SetActive(postac.sprite != null);
 
+        if( linia.Dzwiek != null )
+        {
+            odtwarzaczDzwiekow.clip = linia.Dzwiek;
+            odtwarzaczDzwiekow.Play();
+        }
+
         tekst.text = linia.Dialog;
+
+        if( linia.KwestiaGracza )
+        {   
+            dymekGracza.SetActive(true);
+            dymekPostaci.SetActive(false);
+        }
+        else
+        {
+            dymekPostaci.SetActive(true);
+            dymekGracza.SetActive(false);
+        }
+
         przyciskDalej.SetActive(true);
         przyciskPrzeskok.SetActive(true);
     }
@@ -111,6 +117,7 @@ public class PrezenterScenki : MonoBehaviour
 
     private void Wyczysc()
     {
+        koniec = false;
         przyciskDalej.SetActive(false);
         przyciskPrzeskok.SetActive(false);
         foreach (var p in prezenteryOpcji)
@@ -119,11 +126,10 @@ public class PrezenterScenki : MonoBehaviour
 
     private void KoniecGry()
     {
-        koniec = true;
         Wyczysc();
+        koniec = true;
         tekst.text = "Koniec Gry! :)";
         przyciskDalej.SetActive(true);
-
     }
 
     public void PrzyciskDalej()
@@ -134,8 +140,18 @@ public class PrezenterScenki : MonoBehaviour
             return;
         }
         
-        NastêpnyDialog();
-        PrzyciskPrzeskok();
+        NastepnyDialog();
+    }
+
+    public void PrzyciskPrzeskok()
+    {
+        do
+        {
+            NastepnyDialog();
+            if (koniec == true)
+                return;
+        }
+        while (obecnyDialog is LiniaDialogowa);
     }
 
     public void PrzyciskOpcji(int nr)
@@ -148,6 +164,6 @@ public class PrezenterScenki : MonoBehaviour
         charyzma += opcja.ZmianaCharyzmy;
         Debug.Log($"Suma Charyzmy = {charyzma}");
 
-        NastêpnyDialog();
+        PokazDialog(opcja.NastepnyDialog);
     }
 }

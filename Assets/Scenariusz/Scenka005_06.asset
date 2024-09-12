@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka005_06
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Z przyjemno\u015Bci\u0105 przyjm\u0119 to wyzwanie, Rektorze! To mo\u017Ce
+      by\u0107 doskona\u0142a okazja, by lepiej pozna\u0107 Akademi\u0119.\r\n"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+  - tekst: "Czy jestem odpowiedni\u0105 osob\u0105 do tej roli? Dopiero co tu przyby\u0142em.\r\n\r\n"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0

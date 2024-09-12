@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka008_011
+  m_EditorClassIdentifier: 
+  postac: {fileID: 0}
+  dialog: "Ekran pokazuje otwarte, niezabezpieczone konto z wys\u0142anym emailem
+    Hmm\u2026 @Mamusia \u201EDroga Mamusiu! Mam pomys\u0142 jak poprawi\u0107 swoje
+    stopnie! Mo\u017Ce nie mam ogromnej wiedzy, ale wiem co mo\u017Ce to zast\u0105pi\u0107! "

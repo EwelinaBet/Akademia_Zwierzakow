@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka004_031
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Brzmi \u015Bwietnie! Tylko wiesz, teraz chyba musimy i\u015B\u0107 na
+      zebranie na aule. P\xF3\u017Aniej mam ma\u0142e plany, ale mo\u017Ce wieczorem?
+      Albo jutro?\r\n\r\n"
+    wymaganaCharyzma: 1
+    zmianaCharyzmy: 0
+  - tekst: "Dzisiaj mam ju\u017C plany, mo\u017Ce um\xF3wimy si\u0119 innego dnia?\r"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0

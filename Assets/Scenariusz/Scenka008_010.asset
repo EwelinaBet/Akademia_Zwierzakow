@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka008_010
+  m_EditorClassIdentifier: 
+  postac: {fileID: 0}
+  dialog: "Czy to tylko \u017Cart czy rzeczywi\u015Bcie kto\u015B planuje co\u015B
+    wielkiego? Zdobycie kontroli nad wynikami egzamin\xF3w mog\u0142oby by\u0107
+    krokiem w stron\u0119 'opanowania \u015Bwiata' w mikroskali Akademii."

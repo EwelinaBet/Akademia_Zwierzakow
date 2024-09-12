@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka006_024
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Nie wiem, po prostu pomy\u015Bla\u0142em, \u017Ce jeste\u015B dobrym
+      obserwatorem i\u2026. inteligentn\u0105, niezale\u017Cn\u0105 besti\u0105,
+      kt\xF3ra nie przejmuje si\u0119 opini\u0105 innych wi\u0119c mam zaufanie do
+      Ciebie."
+    wymaganaCharyzma: 1
+    zmianaCharyzmy: 0
+  - tekst: "Jestem tu, by pom\xF3c. Mo\u017Cemy pracowa\u0107 razem, ale skoro nie
+      chcesz to nie. Zapytam innych. Poradz\u0119 sobie bez Twojej pomocy."
+    wymaganaCharyzma: -1
+    zmianaCharyzmy: 0
+  - tekst: "Wiem, \u017Ce lubisz dzia\u0142a\u0107 samodzielnie, ale bardzo szanuj\u0119
+      Twoj\u0105 opini\u0119 i m\xF3g\u0142by\u015B mi pom\xF3c. Nie musisz m\xF3wi\u0107
+      wszystkiego co wiesz, nawet ma\u0142a wskaz\xF3wka mo\u017Ce bardzo u\u0142atwi\u0107
+      mi \u015Bledztwo. Co Ty na to? "
+    wymaganaCharyzma: 3
+    zmianaCharyzmy: -1

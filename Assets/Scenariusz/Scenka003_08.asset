@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka003_08
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "To chyba taka kiesze\u0144 bez dna, co? Zawsze pe\u0142na niespodzianek!"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 921e5408f3fec7e459cf2e93cce649aa, type: 2}
+  - tekst: "Ciesz\u0119 si\u0119, \u017Ce Ci\u0119 spotka\u0142em. Czy mog\u0119
+      liczy\u0107 na Twoj\u0105 pomoc w poznawaniu szko\u0142y?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 0}
+  - tekst: "Fajnie, musz\u0119 lecie\u0107. Mo\u017Ce porozmawiamy p\xF3\u017Aniej."
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 0}

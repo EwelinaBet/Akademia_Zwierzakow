@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka007_07
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Rozumiem, to musi by\u0107 noc pe\u0142na wra\u017Ce\u0144! A czy pozwoli
+      mi Pani rozejrze\u0107 si\u0119 tutaj? Mo\u017Ce znajd\u0119 co\u015B, co pomo\u017Ce
+      w rozwi\u0105zaniu zagadki?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0

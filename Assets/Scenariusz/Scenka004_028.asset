@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka004_028
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  kwestiaGracza: 0
+  dialog: "Och, to mi\u0142e z Twojej strony! Jestem Lami... Wiesz, bardzo si\u0119
+    denerwuj\u0119. \r\nZaczyna si\u0119 sesja, a ja pogubi\u0142am po\u0142ow\u0119
+    notatek. Ah, co za dzie\u0144. Czasami czuj\u0119 si\u0119 jak s\u0142o\u0144
+    w sk\u0142adzie porcelany.\r\n"
+  nastepnyDialog: {fileID: 0}
