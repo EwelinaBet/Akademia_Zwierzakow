@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka010_14
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Dobrze dzi\u0119kuj\u0119. Kapi\u2026 kto opr\xF3cz Ciebie chodzi jeszcze
+      na zaj\u0119cia z majsterkowania i u\u017Cywa narz\u0119dzi?\r\n"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 63b501051ee9b904fa5dcfd89778f055, type: 2}
+  - tekst: "U\u017Cywa\u0142a\u015B ostatnio narz\u0119dzi w bibliotece?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: fcb448bff45bf45499d5074d8872cc07, type: 2}
+  - tekst: "\r\rKapi, w laboratorium komputerowym znalaz\u0142am notatki o ch\u0119ci
+      zaw\u0142adni\u0119cia ca\u0142ego \u015Bwiata. My\u015Blisz, \u017Ce kt\xF3ry\u015B
+      ze student\xF3w chcia\u0142by w\u0142ada\u0107 ca\u0142ym \u015Bwiatem?"
+    wymaganaCharyzma: 4
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: e8e030625b428c1469a3738ecf77a929, type: 2}

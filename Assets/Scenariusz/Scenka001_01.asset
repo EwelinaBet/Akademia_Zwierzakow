@@ -16,6 +16,6 @@ MonoBehaviour:
   postac: {fileID: 0}
   dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "Nie pami\u0119tam, jak tu trafi\u0142em. Ostatnie, co kojarz\u0119, to
-    uczucie spadania... Troch\u0119 si\u0119 poobija\u0142em. "
+  dialog: "<i>Nie pami\u0119tam, jak tu trafi\u0142em. Ostatnie, co kojarz\u0119,
+    to uczucie spadania... Troch\u0119 si\u0119 poobija\u0142em. "
   nastepnyDialog: {fileID: 11400000, guid: 7626b7a8e39704b4da622c62c563a3aa, type: 2}

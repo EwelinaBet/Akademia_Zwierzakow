@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Warto wiedzie\u0107, kto przechodzi obok, szczeg\xF3lnie w miejscu tak
     pe\u0142nym niespodzianek. A Ty wygl\u0105dasz na zgubionego... mo\u017Ce nowego? "
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 026c1bd2ca76a62458e2343e5f095ddc, type: 2}

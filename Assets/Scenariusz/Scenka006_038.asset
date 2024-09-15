@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_038
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: "To by\u0142oby niegrzeczne, to jego skarby i nie powinni\u015Bmy w nich
     grzeba\u0107. Niemniej, id\u0119 zwr\xF3ci\u0107 mu uwag\u0119, \u017Ce ma kopa\u0107
     te swoje do\u0142ki dalej od mojej strefy relaksu. A Ty co zamierzasz porabia\u0107?\r"
+  nastepnyDialog: {fileID: 11400000, guid: b8f33b5391be5b84fa562e3d99b98f66, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka010_32b
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "Przepraszam, nie chcia\u0142em ci\u0119 urazi\u0107. I posprz\u0105tane!
+    Wsp\xF3lne smoothie aktualne? Chod\u017Amy do ogrodu, ty zam\xF3wisz, a ja podejd\u0119
+    w tym czasie do Pana Kr\xF3lika, chcia\u0142em go o co\u015B zapyta\u0107."
+  nastepnyDialog: {fileID: 11400000, guid: 2b4cc06b1df3f24458a91c6bcf582dfa, type: 2}

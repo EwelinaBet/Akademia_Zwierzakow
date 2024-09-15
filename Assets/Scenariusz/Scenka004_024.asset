@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: f7ce30171598d9840922b94f93aa4657, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Ojejku, cze\u015B\u0107! Przepraszam, nie chcia\u0142am Ci\u0119 oplu\u0107.
     Przestraszy\u0142am si\u0119, \u017Ce kto\u015B nade mn\u0105 stoi\u2026 "
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 06807d9142e3c6740b4e2eda2b8f09c7, type: 2}

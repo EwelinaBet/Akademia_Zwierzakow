@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka008_06 1
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: c26151458764ad845b21744cc2d0469b, type: 3}
+  postac: {fileID: 21300000, guid: 368c9d380821cbc409224cd6c25234a8, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Podejrzany\u2026, oni wszyscy s\u0105 podejrzani jak si\u0119 na nich
+    patrzy. Nie wiem, nie wiem\u2026 Z tych co tu przy\u0142a\u017C\u0105 i si\u0119
+    kr\u0119c\u0105 to Kocur dzia\u0142a mi na nerwy.  Nie przy\u0142azi na moje
+    zaj\u0119cia, \u015Bpi ca\u0142ymi dniami na regale w bibliotece."
+  nastepnyDialog: {fileID: 11400000, guid: 7080e1a05801f354098806bd2e065ae0, type: 2}

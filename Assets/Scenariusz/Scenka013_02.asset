@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka013_02
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: f7ce30171598d9840922b94f93aa4657, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "My\u015Bl\u0119, \u017Ce mam ju\u017C do\u015B\u0107 dowod\xF3w. Chcia\u0142bym
+    jeszcze porozmawia\u0107 z ka\u017Cdym."
+  nastepnyDialog: {fileID: 11400000, guid: 502faa9b96cf56d4894889fb93d1689c, type: 2}

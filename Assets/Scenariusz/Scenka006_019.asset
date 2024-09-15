@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_019
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
-  dialog: "Widz\u0119 nagle wylaniajacego sie zza rogu kota."
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>Widz\u0119 nagle wylaniajacego sie zza rogu kota."
+  nastepnyDialog: {fileID: 11400000, guid: bba73b38b64e3804885a1f524ceaac22, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka009_07
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 9064d97ad7f837f4e837d3ebdf1d016a, type: 3}
+  postac: {fileID: 21300000, guid: 09c4ce0c0f35ab246807b4419cb9ad72, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Kolejny\u2026. Nie mo\u017Cecie po prostu wymieni\u0107 si\u0119 informacjami?
+    Prosz\u0119, konto jest zalogowane, od razu przejrzyj te\u017C logi lokalizatora
+    Zakl\u0119tego Kalkulatora. Tylko cicho i nie kr\u0119\u0107 mi si\u0119 ko\u0142o
+    ogona."
+  nastepnyDialog: {fileID: 11400000, guid: aa19bb0df48ca5b45a12cb414243146b, type: 2}

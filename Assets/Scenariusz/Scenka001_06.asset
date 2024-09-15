@@ -16,5 +16,5 @@ MonoBehaviour:
   postac: {fileID: 0}
   dzwiek: {fileID: 8300000, guid: 911ebc42a263f674e9e0f8ce2a9b057a, type: 3}
   kwestiaGracza: 1
-  dialog: "To musi by\u0107 <b>Akademia Zwierzak\xF3w!</b>"
+  dialog: "<i>To musi by\u0107 <b>Akademia Zwierzak\xF3w!</b>"
   nastepnyDialog: {fileID: 11400000, guid: af3b9952d42e84745bf24a391cc27504, type: 2}

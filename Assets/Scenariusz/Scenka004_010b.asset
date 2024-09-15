@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka004_010b
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Samotno\u015B\u0107 to przywilej, nie kara. Tylko najsilniejsi psychicznie
+    potrafi\u0105 siedzie\u0107 w samotno\u015Bci i ciszy ze sob\u0105, to daje przewag\u0119.
+    Milczenie to z\u0142oto, pami\u0119taj zawsze zanim zak\u0142\xF3cisz cisz\u0119
+    i spok\xF3j."
+  nastepnyDialog: {fileID: 11400000, guid: e1e3187aee7cdc1429031ef7d2e38b13, type: 2}

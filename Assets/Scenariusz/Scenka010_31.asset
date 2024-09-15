@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka010_31
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Zdarzy\u0142o Ci si\u0119 siedzie\u0107 w bibliotece i obserwowa\u0107
+      Zakl\u0119ty Kalkulator?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 9542ddca93393504eaa220377c8aab45, type: 2}
+  - tekst: "Masz dobry kontakt ze swoj\u0105 mam\u0105? To prawda, \u017Ce ci\u0119
+      nie docenia?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: 4b1bb340b60f0ab468cc7dae734fd56d, type: 2}
+  - tekst: "Wiem, \u017Ce inni nie doceniaj\u0105 twojego intelektu, ale ty na pewno
+      doceniasz ich. Kto twoim zdaniem mia\u0142by wystarczaj\u0105co wiedzy technicznej,
+      aby zak\u0142\xF3ci\u0107 lokalizator i od\u0142\u0105czy\u0107 kamery od sieci
+      pozostaj\u0105c niezauwa\u017Conym?"
+    wymaganaCharyzma: 4
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: efdcdef70b2acd747b350ba3c55a19c1, type: 2}

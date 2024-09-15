@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: f7ce30171598d9840922b94f93aa4657, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Widzia\u0142e\u015B mo\u017Ce moje notatki z biologii? S\u0105 pe\u0142ne
     rysunk\xF3w alpak..."
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 48428e2260f48ad4d8025291c0fa6600, type: 2}

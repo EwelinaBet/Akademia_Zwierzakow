@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
   postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Mo\u017Cna powiedzie\u0107, \u017Ce znam te korytarze jak w\u0142asn\u0105
     kiesze\u0144... chocia\u017C, przyznam, nie mam kieszeni."
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 722efab61cd0e26439a8c0d756eb08f4, type: 2}

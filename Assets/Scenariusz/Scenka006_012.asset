@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_012
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: "(zmieszany) Tak, tak, ale \u2026. Nie teraz. Bo ja pilnie musz\u0119 zakopa\u0107
     co\u015B w ogrodzie. Mo\u017Ce p\xF3\u017Aniej? \r\n"
+  nastepnyDialog: {fileID: 11400000, guid: 0f58136d2fd8ee147a501a997d045773, type: 2}

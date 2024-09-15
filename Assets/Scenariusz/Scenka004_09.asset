@@ -16,7 +16,9 @@ MonoBehaviour:
   - tekst: "Czy zawsze siedzisz tu tak samotnie, czy to tylko moje wra\u017Cenie?"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: f7ee1faf49774a34486081aec8c7c205, type: 2}
   - tekst: "Siedzisz tutaj ca\u0142kiem sam, mo\u017Ce m\xF3g\u0142bym zosta\u0107
       i Ci potowarzyszy\u0107 przez jaki\u015B czas? "
     wymaganaCharyzma: 0
     zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 99b55c5a37ab10c40a3a119dec8c92d5, type: 2}

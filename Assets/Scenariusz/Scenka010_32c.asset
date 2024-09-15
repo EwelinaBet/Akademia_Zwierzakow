@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka010_32c
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Shiba bardzo dobrze radzi\u0142 sobie z wszelk\u0105 elektronik\u0105.
+    Nawet zaprojektowa\u0142 taki specjalny t\u0142umacz z psiego na ludzki, ale
+    nie wiem czy go uko\u0144czy\u0142. Nie wiem czy pozosta\u0142by niezauwa\u017Cony,
+    ale na pewno ma najwi\u0119kszy talent i umiej\u0119tno\u015Bci ze znanych mi
+    student\xF3w w tej kwestii."
+  nastepnyDialog: {fileID: 11400000, guid: 6f7ca0536346d794e9132ed188adcaa8, type: 2}

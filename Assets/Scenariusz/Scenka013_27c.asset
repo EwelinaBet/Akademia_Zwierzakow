@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka013_27c
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "By\u0142am na nocnych zaj\u0119ciach botanicznych obserwowa\u0107 populacj\u0119
+    \u015Bwietlik\xF3w. S\u0105 to zaj\u0119cia indywidualne, wymagaj\u0105 ciszy
+    i skupienia, wi\u0119c wybra\u0142am si\u0119 sama. Troch\u0119 si\u0119 zasiedzia\u0142am
+    nad jeziorem, wr\xF3ci\u0142am o \u015Bwicie."
+  nastepnyDialog: {fileID: 11400000, guid: 403b8f8b009668a439b16181b8277f08, type: 2}

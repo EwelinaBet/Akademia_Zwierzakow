@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka008_010
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: c26151458764ad845b21744cc2d0469b, type: 3}
   postac: {fileID: 0}
-  dialog: "Czy to tylko \u017Cart czy rzeczywi\u015Bcie kto\u015B planuje co\u015B
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>Czy to tylko \u017Cart czy rzeczywi\u015Bcie kto\u015B planuje co\u015B
     wielkiego? Zdobycie kontroli nad wynikami egzamin\xF3w mog\u0142oby by\u0107
     krokiem w stron\u0119 'opanowania \u015Bwiata' w mikroskali Akademii."
+  nastepnyDialog: {fileID: 11400000, guid: 6f61a139526b82d41b79ec092336be06, type: 2}

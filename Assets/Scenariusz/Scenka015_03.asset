@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka015_03
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Podejrzewam Kocura, co s\u0105dzisz?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 98d86eaec93cba24884408599beea6d4, type: 2}
+  - tekst: "Podejrzewam Lami, co s\u0105dzisz?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: b8195a16dc1f3934f940ae3ef0651907, type: 2}
+  - tekst: "Przykro mi, ale podejrzewam ciebie. Wiele dowod\xF3w na to wskazuje."
+    wymaganaCharyzma: 5
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: c9f281200d8afe94e8627d5f46a19bfb, type: 2}

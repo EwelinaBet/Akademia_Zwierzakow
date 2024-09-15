@@ -17,7 +17,9 @@ MonoBehaviour:
       - zgadzam si\u0119!"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 4546c4327c658604ea3710a5bf5c81b1, type: 2}
   - tekst: "Brzmi kusz\u0105co, ale obieca\u0142em ju\u017C, \u017Ce sp\u0119dz\u0119
       czas z Czarnym Kocurem.!"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 8731d268cc3a08640a1ea0bf000665ef, type: 2}

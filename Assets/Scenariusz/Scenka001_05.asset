@@ -16,5 +16,5 @@ MonoBehaviour:
   postac: {fileID: 0}
   dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "Chyba za mocno uderzy\u0142em si\u0119 w g\u0142ow\u0119, albo\u2026."
+  dialog: "<i>Chyba za mocno uderzy\u0142em si\u0119 w g\u0142ow\u0119, albo\u2026."
   nastepnyDialog: {fileID: 11400000, guid: c4529e29b0b92b64cb30333fcd5727af, type: 2}

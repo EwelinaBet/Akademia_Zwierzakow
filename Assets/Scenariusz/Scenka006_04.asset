@@ -18,11 +18,14 @@ MonoBehaviour:
       b\u0119dzie dobrze!\r\n"
     wymaganaCharyzma: 1
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: a7d3b13e83033bb44bdfa4a18aee68f8, type: 2}
   - tekst: "Spokojnie, postaram si\u0119 tym zaj\u0105\u0107. Masz jaki\u015B pomys\u0142,
       gdzie m\xF3g\u0142bym zacz\u0105\u0107 szuka\u0107?"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: a9d0efdc8ee8df04cbc4a0cab6c074cd, type: 2}
   - tekst: "Lami, czy ufasz wszystkim tu na uczelni? Mo\u017Ce kto\u015B pr\xF3bowa\u0142
       Ci co\u015B powiedzie\u0107 na temat kalkulatora?"
     wymaganaCharyzma: 3
     zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: cdf9c8d2f0723244280f9b32d26c0028, type: 2}

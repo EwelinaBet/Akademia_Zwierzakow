@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka010_22b
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "(marszczy brwi) Na psa urok! K\u0142opot\xF3w szukasz? Powiem ci tylko
+    dla k\u0142\u0119buszka we\u0142ny\u2026 Ojca nie znam, a mama zostawi\u0142a
+    mnie, gdy by\u0142em nastolatkiem. Powiedzia\u0142a: tam s\u0105 myszy, poluj,
+    miej du\u017Co dzieci i rad\u017A sobie. Mojego m\u0142odszego rodze\u0144stwa
+    ju\u017C nawet nie znam."
+  nastepnyDialog: {fileID: 11400000, guid: 0f7234721c346204492689c41e46e9e6, type: 2}

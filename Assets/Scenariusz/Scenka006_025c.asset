@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka006_025c
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Skoro jeste\u015B tak zdeterminowany, to powiem Ci co\u015B. Cz\u0119sto
+    sypiam za dnia na regale w bibliotece, z g\xF3ry wszystko dobrze wida\u0107.
+    Lama cz\u0119sto siada w \u0142awce w pobli\u017Cu gablotki i zamiast si\u0119
+    uczy\u0107 wgapia si\u0119 w ten dziwaczny kalkulator. Kto wie co ona ma w tej
+    g\u0142owie opr\xF3cz \u015Bliny\u2026 "
+  nastepnyDialog: {fileID: 11400000, guid: e8806cb44a9911944a01ba7fb25dce4a, type: 2}

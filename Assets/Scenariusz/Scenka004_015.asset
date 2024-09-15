@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Musisz by\u0107 spoko kole\u015B! Szkoda tylko, \u017Ce zalatuje tu kotem.
     Wi\u0119c co Ci\u0119 sprowadza do naszej weso\u0142ej akademii?\r"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 8bfa56f55dac6b849b639dd1614ac628, type: 2}

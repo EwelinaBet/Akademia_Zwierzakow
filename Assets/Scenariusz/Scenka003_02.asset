@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
   postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 1
   dialog: "Cze\u015B\u0107! Tak to prawda. Czuj\u0119 strach, nikogo tu nie znam."
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 654b53c3265d7d74fb8d34bb90225374, type: 2}

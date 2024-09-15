@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 0}
-  kwestiaGracza: 0
-  dialog: "Obserwuj\u0119 otoczenie. Co to za ba\u0142agan\u2026. Pe\u0142no kartek
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>Obserwuj\u0119 otoczenie. Co to za ba\u0142agan\u2026. Pe\u0142no kartek
     na pod\u0142odze.\r\nA to!?\r\nCo si\u0119 dzieje?!\r"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: eddbe9e045144bd42ad93c58c659fa20, type: 2}

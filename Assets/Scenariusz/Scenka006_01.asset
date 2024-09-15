@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_01
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: f7ce30171598d9840922b94f93aa4657, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: ...
+  nastepnyDialog: {fileID: 11400000, guid: 4b26953a9946c1142a17e78bf24dabf1, type: 2}

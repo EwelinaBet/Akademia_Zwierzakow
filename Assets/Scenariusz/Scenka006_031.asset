@@ -18,12 +18,15 @@ MonoBehaviour:
       by\u0142 Zakl\u0119ty Kalkulator?\r\n"
     wymaganaCharyzma: 1
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 3b52590e3273d2f479dc8bdd1a06a4ed, type: 2}
   - tekst: "Mo\u017Ce widzia\u0142a\u015B kogo\u015B, kto zachowywa\u0142 si\u0119
       podejrzanie w pobli\u017Cu gabloty z Zakl\u0119tym Kalkulatorem?"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 050e60598bddfaf41ab1401d282cd907, type: 2}
   - tekst: "Kapi, wiem \u017Ce znasz tu wszystkich i du\u017Co z nimi rozmawiasz.
       Mo\u017Ce pami\u0119tasz jakie\u015B konkretne rozmowy czy zachowania innych
       wok\xF3\u0142 Zakl\u0119tego Kalkulatora, kt\xF3re mog\u0142yby nam pom\xF3c?\r"
     wymaganaCharyzma: 3
     zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: 738d8c908498ef04c99eec5a84ec99b3, type: 2}

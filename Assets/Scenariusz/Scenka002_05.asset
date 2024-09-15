@@ -18,4 +18,4 @@ MonoBehaviour:
   kwestiaGracza: 0
   dialog: "Mam wa\u017Cny temat do om\xF3wienia. Mo\u017Ce spad\u0142e\u015B nam
     z nieba, aby pom\xF3c w tej sprawie!\r\nPowodzenia \u015Bwie\u017Caku !\r\n "
-  nastepnyDialog: {fileID: 11400000, guid: 3359aeae2320d5e498fe78e6a5c80f7b, type: 2}
+  nastepnyDialog: {fileID: 11400000, guid: 2d3cd0b0e9fa10b4cad0d6e5302d3912, type: 2}

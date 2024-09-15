@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka009_013
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 44b29546fa1aef346955a194166b0605, type: 3}
+  postac: {fileID: 0}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>Wed\u0142ug lokalizatora Zakl\u0119ty Kalkulator meldowa\u0142 si\u0119
+    w bibliotece, a nast\u0119pnie w\u2026 szopce przy ogrodzie? Tam sygna\u0142
+    si\u0119 urywa\u2026 Chwil\u0119 przed tym wy\u0142\u0105czy\u0142y si\u0119
+    kamery. Ciekawe, ale z urwanych sygna\u0142\xF3w nic wi\u0119cej nie wywnioskuj\u0119.
+    Nie b\u0119d\u0119 d\u0142u\u017Cej tu przeszkadza\u0142."
+  nastepnyDialog: {fileID: 11400000, guid: 84c5299fdf815dd47ba6097d3c9e2c92, type: 2}

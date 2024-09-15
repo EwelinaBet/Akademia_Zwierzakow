@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Uwielbiam nowych znajomych! Dobrze, \u017Ce poszed\u0142, nie b\u0119dzie
     przeszkadza\u0142. \r\nNie ufaj mu, kot ma wiele za uszami, a \u017Ce s\u0105
     czarne to nie wida\u0107. \r"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: a283a1c6713a77e479cd9fb586dfdda6, type: 2}

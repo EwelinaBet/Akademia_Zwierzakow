@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka016_08
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: aefec0ff95460a244ac6804e71678c54, type: 3}
+  postac: {fileID: 21300000, guid: fb695c8f6afe4f840b891277a3116c23, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "B\u0105d\u017A pewny swojego wyboru. Daj sobie jeszcze ostatni\u0105 chwil\u0119
+    na zastanowienie. Gdy b\u0119dziesz got\xF3w, wejd\u017A na m\xF3wnic\u0119.
+    \r\nCzekamy.\r"
+  nastepnyDialog: {fileID: 0}

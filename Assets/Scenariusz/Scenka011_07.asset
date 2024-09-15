@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka011_07
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
+  postac: {fileID: 21300000, guid: 1920916c1829805449d806a86c1d4c0b, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Znamy si\u0119 bardzo dobrze, Kapibara chodzi\u0142a do mnie na kurs uprawy
+    marchewek. Zastanawiali\u015Bmy si\u0119 nawet, czy nie mamy wsp\xF3lnych krewnych.
+    Sp\xF3jrz tylko na nasze z\u0119by. S\u0105 nieco podobne prawda?  Przyznam szczerze,
+    \u017Ce nie pami\u0119tam, \u017Ceby kiedykolwiek wcze\u015Bniej zostawi\u0142a
+    skrzynk\u0119 w takim ba\u0142aganie."
+  nastepnyDialog: {fileID: 11400000, guid: 227533eb75dbfef46a6b7602ec1800d7, type: 2}

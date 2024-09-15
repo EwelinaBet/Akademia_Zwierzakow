@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka007_015
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 4ceb130117ee1894688e73a63a73ec8f, type: 3}
   postac: {fileID: 0}
-  dialog: "\u015Alad\xF3w jest bardzo wiele, to z pewno\u015Bci\u0105 kto\u015B czworono\u017Cny,
-    i tak jakby\u2026 kto\u015B po kradzie\u017Cy jeszcze raz tu wr\xF3ci\u0142.
-    Tylko w jakim celu?"
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>\u015Alad\xF3w jest bardzo wiele, to z pewno\u015Bci\u0105 kto\u015B
+    czworono\u017Cny, i tak jakby\u2026 kto\u015B po kradzie\u017Cy jeszcze raz tu
+    wr\xF3ci\u0142. Tylko w jakim celu?"
+  nastepnyDialog: {fileID: 11400000, guid: f65bff7887ee3644e83622aee94ba17b, type: 2}

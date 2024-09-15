@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_040
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: f3ff18d5d49c52347a76676e963be6dd, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: "Trzymaj si\u0119 brachu! I powodzenia w \u015Bledztwie!\r"
+  nastepnyDialog: {fileID: 11400000, guid: 7fe0f82bfa727794ca7df66525bca4a0, type: 2}

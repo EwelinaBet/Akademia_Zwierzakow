@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka011_03
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
+  postac: {fileID: 21300000, guid: 1920916c1829805449d806a86c1d4c0b, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Noc m\xF3j drogi jest od spania. Do\u015B\u0107 si\u0119 napracuj\u0119
+    przy tych grz\u0105dkach za dnia. Na noc zostawiam w\u0142\u0105czone zraszacze,
+    \u017Ceby dobrze nawodni\u0107 kwiaty. Przyznam szczerze\u2026 mimo, \u017Ce
+    \u015Bpi\u0119 jak Zaj\u0105c pod miedz\u0105 dzisiejszej nocy nic mnie nie wyrwa\u0142o
+    ze snu. Przyjrzyj si\u0119 uwa\u017Cnie, wszystkie zniszczone tulipany s\u0105
+    tu\u017C pod oknem biblioteki. Wygl\u0105da jakby kto\u015B stamt\u0105d skaka\u0142!"
+  nastepnyDialog: {fileID: 11400000, guid: 9246b207be7859943949db2c64f7db8e, type: 2}

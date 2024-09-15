@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka010_08a
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "(smutny)Podejrzewasz mnie o co\u015B? Jestem oskar\u017Cony? A ja Ci zaufa\u0142em,
+    my\u015Bla\u0142em, \u017Ce jeste\u015Bmy przyjaci\xF3\u0142mi\u2026 To by\u0142y
+    tylko moje ko\u015Bci\u2026 Zakopuj\u0119, \u017Ceby zmi\u0119k\u0142y, a dzi\u015B
+    rano zapomnia\u0142em."
+  nastepnyDialog: {fileID: 11400000, guid: 8345d6f04ceffe5408e1e86bae130b29, type: 2}

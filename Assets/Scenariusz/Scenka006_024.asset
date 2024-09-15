@@ -17,15 +17,18 @@ MonoBehaviour:
       obserwatorem i\u2026. inteligentn\u0105, niezale\u017Cn\u0105 besti\u0105,
       kt\xF3ra nie przejmuje si\u0119 opini\u0105 innych wi\u0119c mam zaufanie do
       Ciebie."
-    wymaganaCharyzma: 1
-    zmianaCharyzmy: 0
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 52eb2374ff90f584b90cb76d90d55101, type: 2}
   - tekst: "Jestem tu, by pom\xF3c. Mo\u017Cemy pracowa\u0107 razem, ale skoro nie
       chcesz to nie. Zapytam innych. Poradz\u0119 sobie bez Twojej pomocy."
-    wymaganaCharyzma: -1
+    wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 361893871d75fe04f8eca8ee5d3b92a1, type: 2}
   - tekst: "Wiem, \u017Ce lubisz dzia\u0142a\u0107 samodzielnie, ale bardzo szanuj\u0119
       Twoj\u0105 opini\u0119 i m\xF3g\u0142by\u015B mi pom\xF3c. Nie musisz m\xF3wi\u0107
       wszystkiego co wiesz, nawet ma\u0142a wskaz\xF3wka mo\u017Ce bardzo u\u0142atwi\u0107
       mi \u015Bledztwo. Co Ty na to? "
     wymaganaCharyzma: 3
     zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: 0d86c4ba6b2dbfe45b79144185f5fdfa, type: 2}

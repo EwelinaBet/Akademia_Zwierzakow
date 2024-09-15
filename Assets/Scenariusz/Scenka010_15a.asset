@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka010_15a
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "(u\u015Bmiechni\u0119ta) Tylko ja! Nikt po za mn\u0105 nie jest tak ambitny,
+    \u017Ceby po studiach potrafi\u0107 prawid\u0142owo pos\u0142ugiwa\u0107 si\u0119
+    podstawowymi narz\u0119dziami! Ju\u017C im wsp\xF3\u0142czuj\u0119 doros\u0142ego
+    \u017Cycia! Uciekam na zaj\u0119cia do bobr\xF3w, trzymaj si\u0119!"
+  nastepnyDialog: {fileID: 11400000, guid: 8c939923e03a8e24286f33bed8a2d11f, type: 2}

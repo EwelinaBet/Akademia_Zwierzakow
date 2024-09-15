@@ -21,4 +21,4 @@ MonoBehaviour:
   - tekst: "Szczerze m\xF3wi\u0105c, sam nie wiem, jak si\u0119 tu znalaz\u0142em!"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
-    nastepnyDialog: {fileID: 11400000, guid: 52aec26522b629d4fafe32c31f6331c8, type: 2}
+    nastepnyDialog: {fileID: 11400000, guid: b62c561d2fff91841bacb1bd9c4e4ac1, type: 2}

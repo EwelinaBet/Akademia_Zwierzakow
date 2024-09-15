@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_03
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
-  dialog: " (zmartwiona) Wiesz, to wszystko z kalkulatorem troch\u0119 mnie przera\u017Ca.
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "(zmartwiona) Wiesz, to wszystko z kalkulatorem troch\u0119 mnie przera\u017Ca.
     Tak si\u0119 zastanawiam, kto m\xF3g\u0142 to zrobi\u0107."
+  nastepnyDialog: {fileID: 11400000, guid: c620b620b1d47864b80ded3ff002ab86, type: 2}

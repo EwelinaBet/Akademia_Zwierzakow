@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka005_08
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: aefec0ff95460a244ac6804e71678c54, type: 3}
   postac: {fileID: 21300000, guid: 502fe5b19050eaa4a91f9d4b3b5f259b, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: "Teraz, prosz\u0119 wszystkich o zachowanie spokoju i powr\xF3t na zaj\u0119cia.
     A Ty, mam nadziej\u0119, \u017Ce znajdziesz czas, by rozpocz\u0105\u0107 swoje
     \u015Bledztwo jak najszybciej.\r\n\r\r"
+  nastepnyDialog: {fileID: 11400000, guid: 2d23e97afa07aa64689fbfbe483ed02a, type: 2}

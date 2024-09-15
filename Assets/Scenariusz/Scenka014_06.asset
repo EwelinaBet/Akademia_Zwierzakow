@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka014_06
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 9064d97ad7f837f4e837d3ebdf1d016a, type: 3}
+  postac: {fileID: 21300000, guid: fb695c8f6afe4f840b891277a3116c23, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "Skrzynka z narz\u0119dziami Kapibary nie by\u0142a od\u0142o\u017Cona
+    na miejsce, podobno nigdy wcze\u015Bniej jej si\u0119 to nie zdarzy\u0142o. W
+    \u015Brodku znajdowa\u0142 si\u0119 klej do szyb kt\xF3rym nieudolnie sklejono
+    gablotk\u0119."
+  nastepnyDialog: {fileID: 11400000, guid: df60959b6e15df640b30552aa90615d9, type: 2}

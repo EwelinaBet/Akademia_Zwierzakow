@@ -13,10 +13,11 @@ MonoBehaviour:
   m_Name: Scenka004_028
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
-  postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  postac: {fileID: 21300000, guid: f7ce30171598d9840922b94f93aa4657, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Och, to mi\u0142e z Twojej strony! Jestem Lami... Wiesz, bardzo si\u0119
     denerwuj\u0119. \r\nZaczyna si\u0119 sesja, a ja pogubi\u0142am po\u0142ow\u0119
     notatek. Ah, co za dzie\u0144. Czasami czuj\u0119 si\u0119 jak s\u0142o\u0144
     w sk\u0142adzie porcelany.\r\n"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 7e91eb81c25c83a4db2f22614e75979b, type: 2}

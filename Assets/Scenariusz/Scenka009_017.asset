@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka009_017
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 9064d97ad7f837f4e837d3ebdf1d016a, type: 3}
+  postac: {fileID: 21300000, guid: 09c4ce0c0f35ab246807b4419cb9ad72, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "On\u2026 Ja\u2026 My\u2026 Domy\u015Bl si\u0119 ma\u0142y m\u0142okosie.
+    Doro\u015Bniesz, zrozumiesz. Tak Kocur by\u0142 tu i ja te\u017C. Reszta nie
+    powinna Ci\u0119 obchodzi\u0107. Obs\u0142uga tego petenta ju\u017C si\u0119
+    sko\u0144czy\u0142a. Wyjd\u017A i powiedz kolejnemu \u017Ceby nie wchodzi\u0142
+    dop\xF3ki nie zawo\u0142am. \u017Begnam."
+  nastepnyDialog: {fileID: 11400000, guid: e5fd963774815404da2056856380eb1d, type: 2}

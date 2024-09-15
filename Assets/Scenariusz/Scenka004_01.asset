@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 0}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "Przemierzam pstrokaty korytarz Akademii Zwierzak\xF3w, w cieniu wida\u0107
+  dialog: "<i>Przemierzam pstrokaty korytarz Akademii Zwierzak\xF3w, w cieniu wida\u0107
     Czarnego Kocura, obserwuj\u0105cego otoczenie. "
   nastepnyDialog: {fileID: 11400000, guid: 3947450fa84938f428a274671b087fb3, type: 2}

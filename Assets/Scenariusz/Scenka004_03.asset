@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "Kocur wychodzi z cienia i  pojawia si\u0119 na pierwszym planie z cyniczn\u0105
+  dialog: "<i>Kocur wychodzi z cienia i  pojawia si\u0119 na pierwszym planie z cyniczn\u0105
     min\u0105.\r\n "
   nastepnyDialog: {fileID: 11400000, guid: f06352f293ba5e14e8344f7fcf4e0785, type: 2}

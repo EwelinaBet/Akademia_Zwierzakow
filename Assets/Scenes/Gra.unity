@@ -1462,6 +1462,7 @@ MonoBehaviour:
   przyciskPrzeskok: {fileID: 953464342}
   dymekPostaci: {fileID: 1602627502}
   dymekGracza: {fileID: 1954709557}
+  obecnyDialog: {fileID: 11400000, guid: f8e26d666917ef541882305b55d27ab2, type: 2}
 --- !u!1 &1361450423
 GameObject:
   m_ObjectHideFlags: 0

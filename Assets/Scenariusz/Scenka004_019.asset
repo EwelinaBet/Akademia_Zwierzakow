@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "A wiesz co? Po dzisiejszym zebraniu mogliby\u015Bmy p\xF3j\u015B\u0107
     razem porzuca\u0107 pi\u0142k\u0105, albo poznaczy\u0107 murki? Poplotkujemy
     troch\u0119 przy okazji\u2026 Co Ty na to? \r"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 895f9e1428db21446b9a41f0e875c995, type: 2}

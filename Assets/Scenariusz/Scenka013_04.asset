@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka013_04
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Masz pomys\u0142 do czego z\u0142odziej m\xF3g\u0142 u\u017Cy\u0107 folii
+      aluminiowej?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: f6901d833e29d414b9f52de2a5f70739, type: 2}
+  - tekst: "W sumie od ciebie wiem ju\u017C wszystko. Pyszne smoothie."
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 32188730595fb1340aece53520bd38cc, type: 2}
+  - tekst: "Co robi\u0142a\u015B w noc kradzie\u017Cy kalkulatora? Nie podejrzewam
+      ci\u0119, tylko mo\u017Ce co\u015B s\u0142ysza\u0142a\u015B?\r\n"
+    wymaganaCharyzma: 5
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: 7d146b67858645445b285ab52e563cb4, type: 2}

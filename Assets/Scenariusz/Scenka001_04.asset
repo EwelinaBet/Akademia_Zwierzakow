@@ -16,6 +16,6 @@ MonoBehaviour:
   postac: {fileID: 0}
   dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "To chyba nie s\u0105 zwykli ludzie. Zwierz\u0119ta, kt\xF3re m\xF3wi\u0105,
+  dialog: "<i>To chyba nie s\u0105 zwykli ludzie. Zwierz\u0119ta, kt\xF3re m\xF3wi\u0105,
     ucz\u0105 si\u0119, \u015Bmiej\u0105 i... nosz\u0105 akademickie stroje."
   nastepnyDialog: {fileID: 11400000, guid: 18b87a23905fc194a851c2559040267b, type: 2}

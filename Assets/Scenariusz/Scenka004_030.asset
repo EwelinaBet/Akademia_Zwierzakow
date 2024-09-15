@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "\u015Awietnie! Bardzo dzi\u0119kuje za pomoc. Znasz ju\u017C najlepsze
     miejsca na przek\u0105ski? Bo ja tak! Wiem, co pomo\u017Ce nam wyluzowa\u0107!
     \r\nChod\u017A, poka\u017C\u0119 Ci, gdzie robi\u0105 najlepsze smoothie z trawy!"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: dcaf3577255c0ff46b3ae67ab1468858, type: 2}

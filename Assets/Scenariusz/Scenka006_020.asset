@@ -9,10 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_020
   m_EditorClassIdentifier: 
-  opcje:
-  - tekst: "Mruczku! Oprowadzisz mnie troch\u0119 po akademii?"
-    wymaganaCharyzma: 0
-    zmianaCharyzmy: 0
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "Mruczku! Oprowadzisz mnie troch\u0119 po akademii?"
+  nastepnyDialog: {fileID: 11400000, guid: 356f06596add0c24c9a256ee76f6c68a, type: 2}

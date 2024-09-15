@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka006_05c
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Wiesz, kiedy o tym my\u015Bl\u0119... Kapi\u2026 wydawa\u0142a si\u0119
+    ostatnio bardziej zainteresowana kalkulatorem.Wspomina\u0142a, \u017Ce wielka
+    szkoda, \u017Ce zamykany jest pod kluczem w bibliotece i studenci nie mog\u0105
+    go u\u017Cywa\u0107.  Ale ja nie chce jej oskar\u017Ca\u0107, po prostu to jedyne
+    co przysz\u0142o mi na my\u015Bl. Poczekaj, a mo\u017Ce Shiba mi to m\xF3wi\u0142,
+    nie pami\u0119tam do ko\u0144ca. Na pewno kt\xF3re\u015B z nich."
+  nastepnyDialog: {fileID: 11400000, guid: 22585a1da890d504f93aab932ec78055, type: 2}

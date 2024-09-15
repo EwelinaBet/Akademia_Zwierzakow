@@ -17,12 +17,15 @@ MonoBehaviour:
       Czy s\u0142ysza\u0142e\u015B mo\u017Ce co\u015B?\r."
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 0b656d36f9e3a4a47b268f90fba0a226, type: 2}
   - tekst: "Mo\u017Ce chocia\u017C dasz mi zna\u0107, kiedy b\u0119dziesz mia\u0142
       czas na t\u0119 gr\u0119 w pi\u0142k\u0119? Brzmi jak \u015Bwietna przerwa
       od tego ca\u0142ego \u015Bledztwa."
     wymaganaCharyzma: 0
     zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 9fe88f70674fc3b4a99cd4594c9fb8cb, type: 2}
   - tekst: "Shiba, powiedz szczerze, czy kto\u015B Twoim zdaniem jako\u015B dziwnie
       interesowa\u0142 si\u0119 Zakl\u0119tym Kalkulatorem? "
     wymaganaCharyzma: 3
     zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: 29f77f6fd28c22f45925f7539bcd04f3, type: 2}

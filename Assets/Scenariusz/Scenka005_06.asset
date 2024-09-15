@@ -17,6 +17,8 @@ MonoBehaviour:
       by\u0107 doskona\u0142a okazja, by lepiej pozna\u0107 Akademi\u0119.\r\n"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 2fb905a7766cd5f419ce2e9e15b329b2, type: 2}
   - tekst: "Czy jestem odpowiedni\u0105 osob\u0105 do tej roli? Dopiero co tu przyby\u0142em.\r\n\r\n"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: a5466fe1ca970394ba05527104b31ecb, type: 2}

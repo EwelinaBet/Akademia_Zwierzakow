@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka012_05
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 9c9fc9ea5c342184d83f3306b2d8ec19, type: 3}
+  postac: {fileID: 21300000, guid: 1920916c1829805449d806a86c1d4c0b, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Nie wiem czy to istotne, dzi\u015B rano gdy przyszed\u0142em do pracy
+    zasuwka by\u0142a strasznie mocno zatrza\u015Bni\u0119ta. Utkwi\u0142a, nie mog\u0142em
+    sobie z ni\u0105 poradzi\u0107. Dobrze, \u017Ce mi si\u0119 przypomnia\u0142o,
+    od razu j\u0105 nasmaruj\u0119."
+  nastepnyDialog: {fileID: 11400000, guid: a309152a27ae0d749a7dabb807d77bec, type: 2}

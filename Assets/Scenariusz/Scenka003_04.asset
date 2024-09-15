@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
   postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Lubi\u0119 tu by\u0107, pokr\u0119ci\u0107 si\u0119 po uczelni, pozaczepia\u0107,
     spotyka\u0107 nowych ludzi, rozmawia\u0107... \r\nZ niekt\xF3rymi nie warto,
     ale warto sprawdzi\u0107 czy warto. Rozumiesz? \r \r\n"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 3b8eb854241bf244a8662ba209b108cf, type: 2}

@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka008_011
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: c24486002c1cf8240beb91f9fe726ac7, type: 3}
   postac: {fileID: 0}
-  dialog: "Ekran pokazuje otwarte, niezabezpieczone konto z wys\u0142anym emailem
-    Hmm\u2026 @Mamusia \u201EDroga Mamusiu! Mam pomys\u0142 jak poprawi\u0107 swoje
-    stopnie! Mo\u017Ce nie mam ogromnej wiedzy, ale wiem co mo\u017Ce to zast\u0105pi\u0107! "
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>Znalz\u0142em te\u017C niewy\u0142\u0105czony komputer. Ekran pokazuje
+    otwarte, niezabezpieczone konto z wys\u0142anym emailem Hmm\u2026 @Mamusia \u201EDroga
+    Mamusiu! Mam pomys\u0142 jak poprawi\u0107 swoje stopnie! Mo\u017Ce nie mam ogromnej
+    wiedzy, ale wiem co mo\u017Ce to zast\u0105pi\u0107! "
+  nastepnyDialog: {fileID: 11400000, guid: 21c03ca772de7bf43ac06171dc1892f1, type: 2}

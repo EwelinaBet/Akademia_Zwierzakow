@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "W tej d\u017Cungli liczy si\u0119 spryt i w\u0142asne pazury. Lepiej naucz
     si\u0119 szybko, jak ich u\u017Cywa\u0107. Nie drzyj z nikim kot\xF3w, a b\u0119dzie
     dobrze. Tyle pomocy na razie Ci wystarczy."
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: aba01ac4577728847a5fed744c27e91c, type: 2}

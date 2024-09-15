@@ -9,12 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka008_07
   m_EditorClassIdentifier: 
-  opcje:
-  - tekst: "Rozumiem, \u017Ce to irytuj\u0105ce. Czy m\xF3g\u0142bym rzuci\u0107
-      okiem dooko\u0142a, mo\u017Ce znajd\u0119 co\u015B, co pomo\u017Ce nam rozwi\u0105za\u0107
-      zagadk\u0119 kradzie\u017Cy Zakl\u0119tego Kalkulatora?"
-    wymaganaCharyzma: 0
-    zmianaCharyzmy: 0
+  lokacja: {fileID: 21300000, guid: c26151458764ad845b21744cc2d0469b, type: 3}
+  postac: {fileID: 21300000, guid: 368c9d380821cbc409224cd6c25234a8, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "Rozumiem, \u017Ce to irytuj\u0105ce. Czy m\xF3g\u0142bym rzuci\u0107 okiem
+    dooko\u0142a, mo\u017Ce znajd\u0119 co\u015B, co pomo\u017Ce nam rozwi\u0105za\u0107
+    zagadk\u0119 kradzie\u017Cy Zakl\u0119tego Kalkulatora?"
+  nastepnyDialog: {fileID: 11400000, guid: 2efcc79942d42f747ba38fe0dcc65efd, type: 2}

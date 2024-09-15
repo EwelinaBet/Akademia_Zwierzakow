@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka013_11c
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Nie by\u0142o mnie na uczelni. Nie wydaj mnie, tej nocy by\u0142em w\u2026
+    \u201EW\u015Bciek\u0142ym Psie\u201D \u2013 to taka knajpka za rogiem i ca\u0142\u0105
+    noc gra\u0142em w pokera z Dobermanem, Bull Dogiem i Chihuahu\u0105. Strasznie
+    nas wszystkich oskuba\u0142a, wr\xF3ci\u0142em nad ranem. Mog\u0119 zadzwoni\u0107,
+    potwierdz\u0105, ale je\u015Bli nie musz\u0119 to wola\u0142bym o tym nie m\xF3wi\u0107."
+  nastepnyDialog: {fileID: 11400000, guid: 9077f85d5a46de549a51fd17403c389f, type: 2}

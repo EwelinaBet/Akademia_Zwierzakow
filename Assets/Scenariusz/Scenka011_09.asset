@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka011_09
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
+  postac: {fileID: 0}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>Otworzy\u0142em skrzynk\u0119 z narz\u0119dziami. Znajduj\u0119 w niej
+    klej do szyb. Czy Kapibara u\u017Cy\u0142a tego kleju do 'naprawy' po w\u0142amaniu,
+    czy to tylko zbieg okoliczno\u015Bci? Jest te\u017C ostry no\u017Cyk i inne niezb\u0119dne
+    narz\u0119dzia. Ten zestaw m\xF3g\u0142 zosta\u0107 u\u017Cyty przy w\u0142amaniu.
+    Odnios\u0119 skrzynk\u0119 na miejsce.\r\n"
+  nastepnyDialog: {fileID: 0}

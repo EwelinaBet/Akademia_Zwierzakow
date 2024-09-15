@@ -20,9 +20,9 @@ MonoBehaviour:
   - tekst: "Ciesz\u0119 si\u0119, \u017Ce Ci\u0119 spotka\u0142em. Czy mog\u0119
       liczy\u0107 na Twoj\u0105 pomoc w poznawaniu szko\u0142y?"
     wymaganaCharyzma: 0
-    zmianaCharyzmy: -1
-    nastepnyDialog: {fileID: 0}
+    zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: d18eead2dcb9a014591f7f8fa263aa71, type: 2}
   - tekst: "Fajnie, musz\u0119 lecie\u0107. Mo\u017Ce porozmawiamy p\xF3\u017Aniej."
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
-    nastepnyDialog: {fileID: 0}
+    nastepnyDialog: {fileID: 11400000, guid: 74ebd7028529cac4eb44fb3409e551c5, type: 2}

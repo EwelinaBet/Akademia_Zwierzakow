@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
   postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 1
   dialog: "Boj\u0119 si\u0119, \u017Ce mog\u0119 si\u0119 zgubi\u0107 pierwszego
-    dnia\rBoj\u0119 si\u0119, \u017Ce mog\u0119 si\u0119 zgubi\u0107 pierwszego dnia"
+    dnia."
   nastepnyDialog: {fileID: 11400000, guid: f8e26d666917ef541882305b55d27ab2, type: 2}

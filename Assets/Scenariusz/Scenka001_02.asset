@@ -16,5 +16,5 @@ MonoBehaviour:
   postac: {fileID: 0}
   dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "Co\u015B mi m\xF3wi, \u017Ce to nie b\u0119dzie zwyk\u0142y rok akademicki."
+  dialog: "<i>Co\u015B mi m\xF3wi, \u017Ce to nie b\u0119dzie zwyk\u0142y rok akademicki."
   nastepnyDialog: {fileID: 11400000, guid: fdb9af7b76505ec40a8c853289076af2, type: 2}

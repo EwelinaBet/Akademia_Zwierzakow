@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka010_07
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "Shiba, chcia\u0142em Ci\u0119 o co\u015B zapyta\u0107. Powiedz mi prawd\u0119,
+      co zakopywa\u0142e\u015B w ogrodzie?\r\n"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: b1542f5bcb45e5b48a33a2b4f804ac70, type: 2}
+  - tekst: "Nie\u017Ale si\u0119 ubrudzi\u0142e\u015B przy tym kopaniu, hehe zabawnie
+      wygl\u0105dasz m\xF3j przyjacielu."
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 1
+    nastepnyDialog: {fileID: 11400000, guid: 27f6515faec67a84e8d025b26ff8d967, type: 2}
+  - tekst: "Shiba, w bibliotece znalaz\u0142em jasn\u0105 sier\u015B\u0107 i \u015Blady
+      b\u0142ota. Czy kojarzysz \u017Ceby kiedy\u015B kto\u015B wychodzi\u0142 z
+      biblioteki przez okno albo kr\u0119ci\u0142 si\u0119 po tamtej stronie budynku?\r\r"
+    wymaganaCharyzma: 4
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: 789909e5821030045b3e914360a00ccc, type: 2}

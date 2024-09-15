@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka008_018
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: c26151458764ad845b21744cc2d0469b, type: 3}
+  postac: {fileID: 21300000, guid: 368c9d380821cbc409224cd6c25234a8, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "Dzi\u0119kuj\u0119, to bardzo przydatna rada. Gdzie znajd\u0119 sekretariat?"
+  nastepnyDialog: {fileID: 11400000, guid: 382502672ff95864f9f093c4a82b909d, type: 2}

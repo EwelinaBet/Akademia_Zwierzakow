@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka007_018
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: b6b55e90a0cda8a4a88a44a935b0b3ed, type: 3}
   postac: {fileID: 21300000, guid: 49bce6d72d2b8b44c806fb8e03f72f32, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: "(zamy\u015Blona) My\u015Bl\u0119, \u017Ce mog\u0119 Ci zaproponowa\u0107
     co\u015B, co rzuci wi\u0119cej \u015Bwiat\u0142a na spraw\u0119. Mo\u017Ce uda\u0142by\u015B
     si\u0119 do sali laboratoryjnej? "
+  nastepnyDialog: {fileID: 11400000, guid: 12e032d679460ea40a7a92c0bd00f32b, type: 2}

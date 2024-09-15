@@ -12,8 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka005_05
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: aefec0ff95460a244ac6804e71678c54, type: 3}
   postac: {fileID: 21300000, guid: 502fe5b19050eaa4a91f9d4b3b5f259b, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: "Jako nowy student, kt\xF3ry dos\u0142ownie spad\u0142 nam z nieba, masz
     \u015Bwie\u017Ce spojrzenie na nasz\u0105 akademi\u0119. Proponuj\u0119, aby\u015B
     podj\u0105\u0142 si\u0119 roli detektywa. Tw\xF3j nowy, niezale\u017Cny punkt
     widzenia mo\u017Ce okaza\u0107 si\u0119 kluczowy w rozwi\u0105zaniu tej zagadki.\r\r"
+  nastepnyDialog: {fileID: 11400000, guid: 0815e44bd914a8447bc839595a7a7782, type: 2}

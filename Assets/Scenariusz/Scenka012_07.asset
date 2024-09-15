@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka012_07
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 9c9fc9ea5c342184d83f3306b2d8ec19, type: 3}
+  postac: {fileID: 21300000, guid: 1920916c1829805449d806a86c1d4c0b, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Bywaj zdr\xF3w i jedz du\u017Co warzyw m\u0142ody przyjacielu!"
+  nastepnyDialog: {fileID: 11400000, guid: 3424530a57820214385de067a85a31ea, type: 2}

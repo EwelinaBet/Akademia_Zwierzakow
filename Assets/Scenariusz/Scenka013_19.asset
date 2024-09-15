@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Name: Scenka013_19
+  m_EditorClassIdentifier: 
+  opcje:
+  - tekst: "My\u015Blisz, \u017Ce z\u0142odziej mia\u0142 wsp\xF3lnika?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 5fdee25068b959d4ca1b0266a89464dc, type: 2}
+  - tekst: "Wy\u0142\u0105czy\u0142e\u015B kamery w noc kradzie\u017Cy?"
+    wymaganaCharyzma: 0
+    zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 496e3822c282157408ca527bb19092bf, type: 2}
+  - tekst: "O kt\xF3rej wyszed\u0142e\u015B z sekretariatu w nocy?"
+    wymaganaCharyzma: 5
+    zmianaCharyzmy: -1
+    nastepnyDialog: {fileID: 11400000, guid: 881b5001412934847b98366e64fa8425, type: 2}

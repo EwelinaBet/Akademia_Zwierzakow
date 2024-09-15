@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "\r(obw\u0105chuj\u0105c) Ah, nowy zapach! To zawsze ekscytuj\u0105ce,
     pe\u0142ne wra\u017Ce\u0144. O rany, ile na Tobie przer\xF3\u017Cnych zapach\xF3w,
     ciekawe, ciekawe.\r"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: d0242dfa6456bb44998fba1f10860ab3, type: 2}

@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 44354b0ed4213d64d874468a79786af3, type: 3}
   postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Od teraz znasz mnie! Jestem Kapi. \r\nAkademia to taki kolorowy \u015Bwiat
     pe\u0142en przyg\xF3d i, no wiesz, czasem troszk\u0119 chaosu, ale to nic z\u0142ego!
     \r\n"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 225034881525ea4488f80bb6c2970dca, type: 2}

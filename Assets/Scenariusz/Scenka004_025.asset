@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: f7ce30171598d9840922b94f93aa4657, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Przepraszam za ten ba\u0142agan, moje notatki w\u0142a\u015Bnie postanowi\u0142y
     zrobi\u0107 sobie wycieczk\u0119 po pod\u0142odze. Mog\u0119 Ci\u0119 jako\u015B...
     och, nie wiem, pom\xF3c? \r\n\r\n"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: a85cfe34431b6f24dad646945de474dd, type: 2}

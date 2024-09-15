@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka013_20b
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "(marszczy brwi) Eh... Powiem ci prawd\u0119 dla w\u0142asnego dobra...
+    My niechc\u0105cy podczas\u2026 Naszego spotkania usiedli\u015Bmy na klawiaturze.
+    Co\u015B si\u0119 powciska\u0142o, nie wiedzieli\u015Bmy, \u017Ce to wy\u0142\u0105czenie
+    nagrywania. Tej nocy zagin\u0105\u0142 kalkulator, wiesz co by oznacza\u0142o
+    gdybym powiedzia\u0142 o tym zdarzeniu? Ju\u017C jestem czarn\u0105 owc\u0105,
+    a nikt o tym nie wie. Dlatego przemilczeli\u015Bmy ten incydent.  "
+  nastepnyDialog: {fileID: 11400000, guid: 7b4d0b8e682def940a57638437f4639d, type: 2}

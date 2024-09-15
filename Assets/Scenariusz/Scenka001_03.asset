@@ -16,6 +16,6 @@ MonoBehaviour:
   postac: {fileID: 0}
   dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "Wszystko wydaje si\u0119 by\u0107 z innej bajki \u2013 kolorowo, pi\u0119knie,
+  dialog: "<i>Wszystko wydaje si\u0119 by\u0107 z innej bajki \u2013 kolorowo, pi\u0119knie,
     wszystko t\u0119tni \u017Cyciem, a te postacie... \r\n"
   nastepnyDialog: {fileID: 11400000, guid: 13d507fe6a3736b42b59ff10c798d392, type: 2}

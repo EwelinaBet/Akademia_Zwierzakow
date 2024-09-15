@@ -9,10 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec73ffb36afc00642bb57007a1ef0633, type: 3}
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_033
   m_EditorClassIdentifier: 
-  opcje:
-  - tekst: "Dzi\u0119ki to zawsze jaka\u015B wskaz\xF3wka."
-    wymaganaCharyzma: 0
-    zmianaCharyzmy: 0
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
+  postac: {fileID: 21300000, guid: f3ff18d5d49c52347a76676e963be6dd, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "Dzi\u0119ki to zawsze jaka\u015B wskaz\xF3wka."
+  nastepnyDialog: {fileID: 11400000, guid: b25d77f99d6099c41a75c6dc850f5416, type: 2}

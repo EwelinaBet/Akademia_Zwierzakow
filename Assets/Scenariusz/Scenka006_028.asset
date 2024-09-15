@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_028
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: d8c3209bebf90f447ba5feb1ab9cfab4, type: 3}
-  dialog: "Spotykam na samym ko\u0144cu korytarza Kapibar\u0119."
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 1
+  dialog: "<i>Spotykam na samym ko\u0144cu korytarza Kapibar\u0119."
+  nastepnyDialog: {fileID: 11400000, guid: c9eb827d041dd8f47af1525f5531b082, type: 2}

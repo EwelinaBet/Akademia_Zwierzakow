@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
   m_Name: Scenka006_014
   m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: c5640cb6affcde24096a1cfd4f80044f, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
   dialog: "(patrz\u0105c doko\u0142a, nerwowo) Ach, wiesz... to tylko... mam ma\u0142e
     zamieszanie. "
+  nastepnyDialog: {fileID: 11400000, guid: 471f26e73b01ec646b1e4fab77abbead, type: 2}

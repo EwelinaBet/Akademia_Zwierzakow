@@ -18,6 +18,8 @@ MonoBehaviour:
       Albo jutro?\r\n\r\n"
     wymaganaCharyzma: 1
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 77cdae13cb55ff84d8cd72615859da4b, type: 2}
   - tekst: "Dzisiaj mam ju\u017C plany, mo\u017Ce um\xF3wimy si\u0119 innego dnia?\r"
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
+    nastepnyDialog: {fileID: 11400000, guid: 2f1eee90ae5c1754faf8e0b9d06b8730, type: 2}

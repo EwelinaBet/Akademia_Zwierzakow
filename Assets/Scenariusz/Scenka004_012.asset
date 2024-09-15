@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
   postac: {fileID: 21300000, guid: 814ce24174882d547aa8502c260255db, type: 3}
+  dzwiek: {fileID: 0}
   kwestiaGracza: 0
   dialog: "Hej! Hej! Hej! Czy mog\u0119 Ci\u0119 obw\u0105cha\u0107 na przywitanie?
     To taki akademicki zwyczaj!"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: b5f5e77a7c8699845a6551ab3eeba3f3, type: 2}
