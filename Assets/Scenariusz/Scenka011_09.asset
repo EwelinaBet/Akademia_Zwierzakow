@@ -21,4 +21,4 @@ MonoBehaviour:
     czy to tylko zbieg okoliczno\u015Bci? Jest te\u017C ostry no\u017Cyk i inne niezb\u0119dne
     narz\u0119dzia. Ten zestaw m\xF3g\u0142 zosta\u0107 u\u017Cyty przy w\u0142amaniu.
     Odnios\u0119 skrzynk\u0119 na miejsce.\r\n"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 046c699e0b5960e42be66854dae2ef89, type: 2}

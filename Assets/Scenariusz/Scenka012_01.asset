@@ -20,4 +20,4 @@ MonoBehaviour:
     u\u017Cy\u0107 tej folii do zak\u0142\xF3cenia sygna\u0142u lokalizatora w Zakl\u0119tym
     Kalkulatorze? Czy folia mog\u0142a s\u0142u\u017Cy\u0107 jako improwizowana os\u0142ona,
     uniemo\u017Cliwiaj\u0105ca namierzenie urz\u0105dzenia po kradzie\u017Cy?"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 265d1d2aba8e59f4293b6cad2ab8b0ea, type: 2}
