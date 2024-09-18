@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
-  m_Name: Scenka004_027
+  m_Name: Scenka018_02d
   m_EditorClassIdentifier: 
-  lokacja: {fileID: 21300000, guid: 317f5bdefb391744b9519c54cbb78345, type: 3}
-  postac: {fileID: 21300000, guid: f7ce30171598d9840922b94f93aa4657, type: 3}
+  lokacja: {fileID: 21300000, guid: 8703ec7d9200d7d469f0b19602a0c6fe, type: 3}
+  postac: {fileID: 21300000, guid: 62aa8b6fbd346ab4abb10888237c7850, type: 3}
   dzwiek: {fileID: 0}
   kwestiaGracza: 1
-  dialog: "Nie widzia\u0142em, ale pomog\u0119 Ci to pozbiera\u0107. Wiele wra\u017Ce\u0144,
-    jak na m\xF3j pierwszy dzie\u0144"
-  nastepnyDialog: {fileID: 11400000, guid: 994c84a49f5ca7147a6a76c8d41fabd5, type: 2}
+  dialog: "Masz odpowiednie umiej\u0119tno\u015Bci..."
+  nastepnyDialog: {fileID: 11400000, guid: 68c9343f5bc22fd498baf4703bcebac8, type: 2}

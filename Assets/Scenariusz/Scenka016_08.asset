@@ -19,4 +19,4 @@ MonoBehaviour:
   dialog: "B\u0105d\u017A pewny swojego wyboru. Daj sobie jeszcze ostatni\u0105 chwil\u0119
     na zastanowienie. Gdy b\u0119dziesz got\xF3w, wejd\u017A na m\xF3wnic\u0119.
     \r\nCzekamy.\r"
-  nastepnyDialog: {fileID: 0}
+  nastepnyDialog: {fileID: 11400000, guid: 5a4ccb716de72aa4f98190ba151ed589, type: 2}

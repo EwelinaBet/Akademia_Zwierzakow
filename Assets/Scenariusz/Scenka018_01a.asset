@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka018_01a
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 8703ec7d9200d7d469f0b19602a0c6fe, type: 3}
+  postac: {fileID: 21300000, guid: f3ff18d5d49c52347a76676e963be6dd, type: 3}
+  dzwiek: {fileID: 8300000, guid: a7d91b1e25dbd6741a97527d23a85b01, type: 3}
+  kwestiaGracza: 0
+  dialog: "Tak, to ja. Wszystko zacz\u0119\u0142o si\u0119 od niewinnej ciekawo\u015Bci...
+    Ten kalkulator by\u0142 dla mnie ostatni\u0105 szans\u0105 na popraw\u0119 wynik\xF3w.
+    Nie planowa\u0142em, aby sprawy zasz\u0142y tak daleko. My\u015Bla\u0142em, \u017Ce
+    uda mi si\u0119 to ukry\u0107, ale teraz wiem, \u017Ce nie da si\u0119 uciec
+    przed prawd\u0105."
+  nastepnyDialog: {fileID: 11400000, guid: 59d492de669a8ab45b50d66815b199ab, type: 2}

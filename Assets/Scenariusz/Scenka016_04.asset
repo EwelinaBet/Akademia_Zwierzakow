@@ -32,4 +32,4 @@ MonoBehaviour:
       elektronice, potrzebuje du\u017Co atencji."
     wymaganaCharyzma: 0
     zmianaCharyzmy: 0
-    nastepnyDialog: {fileID: 11400000, guid: 3c6cf9671ea0aa040b3074b0e3d301ea, type: 2}
+    nastepnyDialog: {fileID: 11400000, guid: 97c7cb8a9b3e5774faf5d60ac5932f47, type: 2}

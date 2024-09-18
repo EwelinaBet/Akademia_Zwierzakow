@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea50f06b969ba3240a203103cc0b13fa, type: 3}
+  m_Name: Scenka018_03b
+  m_EditorClassIdentifier: 
+  lokacja: {fileID: 21300000, guid: 8703ec7d9200d7d469f0b19602a0c6fe, type: 3}
+  postac: {fileID: 21300000, guid: fe1682d153c271b41a1f59db09915110, type: 3}
+  dzwiek: {fileID: 0}
+  kwestiaGracza: 0
+  dialog: "Tak, bo to moje ulubione miejsce do nauki! Ale nie dlatego, \u017Ce chcia\u0142am
+    co\u015B ukra\u015B\u0107! Nie wiem, co zrobi\u0107... Wszyscy teraz na mnie
+    patrz\u0105... Ja po prostu nie wiem, co powiedzie\u0107..."
+  nastepnyDialog: {fileID: 11400000, guid: 7a9b6e14fec1de94c86c335ae89f0f6d, type: 2}

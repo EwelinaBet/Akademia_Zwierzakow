@@ -128,7 +128,7 @@ public class PrezenterScenki : MonoBehaviour
     {
         Wyczysc();
         koniec = true;
-        tekst.text = "Koniec Gry! :)";
+        tekst.text = "Zacznij od nowa?";
         przyciskDalej.SetActive(true);
     }
 
